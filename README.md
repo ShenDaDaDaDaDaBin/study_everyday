@@ -1,3 +1,3 @@
 # study_everyday
 
-xuexi
+每日学习提交
